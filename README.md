@@ -1,9 +1,15 @@
 local ScreenGui = Instance.new("ScreenGui")
+
 local Frame = Instance.new("Frame")
+
 local TextLabel = Instance.new("TextLabel")
+
 local under = Instance.new("TextButton")
+
 local Frame_2 = Instance.new("Frame")
+
 local TextLabel_2 = Instance.new("TextLabel")
+
 local got = Instance.new("TextButton")
 
 --Properties:
